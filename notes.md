@@ -6,15 +6,15 @@
 
 > “海洛因、碳水化合物、月薪是三种最有害的成瘾物。” ― 塔勒布
 >
-> "The three most harmful addictions are heroin, carbohydrates, and a monthly salary." ― Taleb
+> "The three most harmful addictions are heroin, carbohydrates, and a monthly salary." ― [Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
 > “理解才是关键。能够运用判断力才是关键。品味才是关键。而理解、判断、品味，这些都源自面对真实的问题、解决它们，然后发现其中的共性。” — 纳瓦尔
 >
-> "Understanding is the thing. Being able to exercise judgment is the thing. Taste is the thing, and understanding, judgment, taste, these come out of having real problems and then solving them and then finding the commonalities." — Naval
+> "Understanding is the thing. Being able to exercise judgment is the thing. Taste is the thing, and understanding, judgment, taste, these come out of having real problems and then solving them and then finding the commonalities." — [Naval](https://en.wikipedia.org/wiki/Naval_Ravikant)
 
 > “预测未来的最好方法是创造未来。” ― 艾伦·凯
 >
-> "The best way to predict the future is to invent it." ― Alan Kay
+> "The best way to predict the future is to invent it." ― [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
 
 > “在你对某件事了解一切之前，先对所有事物有所了解。” ― 佚名
 >
@@ -106,7 +106,7 @@ Cherish those around you, for the unexpected is always closer than we imagine.
 
 ###  你已经很富足了
 
-> No new hobbies, equipment, games, or books are allowed during this year. Instead, you have to find the value in what you already own or what you’ve already started. You turn to the wealth of options already in your house, literally and figuratively. You improve skills rather than learning new ones. You consume media you’ve already stockpiled instead of acquiring more.
+> No new hobbies, equipment, games, or books are allowed during this year. Instead, you have to find the value in what you already own or what you’ve already started. You turn to the wealth of options already in your house, literally and figuratively. You improve skills rather than learning new ones. You consume media you’ve already stockpiled instead of acquiring more. [Go Deeper, Not Wider](https://www.raptitude.com/2017/12/go-deeper-not-wider/)
 
 Spend a year truly organizing and cherishing what you already possess. Try living this year by buying only the essentials for daily life — and nothing else.
 
@@ -129,16 +129,13 @@ No new hobbies.
 No new gear.
 No new books.
 
-
-
-
 ### 创造及自我
 
 > 当你不创造事物时，你会被你的品味所定义，而不是你的能力。你的品味只会使人们变得狭隘和排斥他人。所以，要创造。
 
 不要⽤消费定义你，⽽是要⽤创造定义你。致身处⼤消费时代的我们。
 
-> When you're not creating, you're defined by your tastes rather than ability. Taste alone makes people narrow-minde and exclusionary. So create.
+> When you're not creating, you're defined by your tastes rather than ability. Taste alone makes people narrow-minded and exclusionary. So create. ― by Naval Ravikant
 
 Do not let consumption define you; instead, let creation define you. A message to all of us living in the era of mass consumption.
 
@@ -170,7 +167,7 @@ Then, reciprocate by listening to others' observations, feelings, needs, and req
 
 ### 蜀鄙之僧
 
-> 蜀之鄙有二僧，其一贫，其一富。贫者语于富者曰：“吾欲之南海，何如？” 富者曰：“子何恃而往？” 曰：“吾一瓶一钵足矣。” 富者曰：“吾数年来欲买舟而下，犹未能也。子何持而往！” 越明年，贫者自南海还，以告富者。 富者有惭色。西蜀之去南海，不知几千里也，僧富者不能至而贫者至蔫。人之立志，顾不如蜀鄙之僧哉？
+> 蜀之鄙有二僧，其一贫，其一富。贫者语于富者曰：“吾欲之南海，何如？” 富者曰：“子何恃而往？” 曰：“吾一瓶一钵足矣。” 富者曰：“吾数年来欲买舟而下，犹未能也。子何持而往！” 越明年，贫者自南海还，以告富者。 富者有惭色。西蜀之去南海，不知几千里也，僧富者不能至而贫者至蔫。人之立志，顾不如蜀鄙之僧哉？―《为学一首示子侄》（彭端淑）
 
 In the countryside of Shu, there were two monks, one poor and the other wealthy. The poor monk said to the wealthy one, "I wish to go to the South Sea; what do you think?" The wealthy one replied, "What do you rely on to go?" The poor one said, "I have a bottle and a bowl, and that is enough." The wealthy one said, "For several years, I have wanted to buy a boat to go down there, yet I have not been able to do so. What do you have to take with you?"
 
@@ -465,55 +462,47 @@ If you're only consuming right now, ask yourself: **What did I create today?**
 
 ## Bookself
 
-中文:
+- [《社会性动物》](https://book.douban.com/subject/34970886/)，社会心理学经典教材
+- [《创意行为：存在即答案》](https://book.douban.com/subject/36897065/)
+- [《科恩谈科恩》](https://book.douban.com/subject/36892415/)
+- [《那不勒斯四部曲》](https://book.douban.com/series/36002)，我爱埃莱娜·费兰特
+- [《失明症漫记》](https://book.douban.com/subject/27141620/)
+- [《天才与天才之间》](https://book.douban.com/subject/35678095/)
+- [《2666》](https://book.douban.com/subject/6800379/)，神作
+- [《设计心理学》](https://book.douban.com/subject/26742341/)
+- [《写给大家看的设计书》](https://book.douban.com/subject/26664522/)
+- [《来自民间的叛逆》](https://book.douban.com/subject/30294348/)，一部美国民歌史，半部迪伦传
+- [《棋王·树王·孩子王》](https://book.douban.com/subject/26739966/) ，能写出阿城那样的句子，这辈子算值了
+- [《命令行中的数据科学》](https://book.douban.com/subject/26387975/)
+- [《莎士比亚全集》](https://book.douban.com/series/4319)
+- [《现代艺术 150 年》](https://book.douban.com/subject/26854318/)，一个未完成的故事
+- [《我是你的男人》](https://book.douban.com/subject/25858095/)
+- [《神曲》](https://book.douban.com/subject/35390580/)
+- [《黑客与画家》](https://book.douban.com/subject/35889905/)
+- [《斯通纳》](https://book.douban.com/subject/26425831/)，一个失败者的一生
+- [《福尔摩斯探案全集》](https://book.douban.com/subject/3723829/)，一度读成了哲学书
+- [《霍乱时期的爱情》](https://book.douban.com/subject/10594787/)
+- [《围城》](https://book.douban.com/subject/1008145/)，墙里墙外，皆是囚徒
+- [《傲慢与偏见》](https://book.douban.com/subject/26904471/)
+- [《理智与情感》](https://book.douban.com/subject/35494990/)
+- [《万历十五年》](https://book.douban.com/subject/1858410/)，历史就是要能够见微知著
+- [《日本的八个审美意识》](https://book.douban.com/subject/27193382/)
+- [《艺术与观念（上册）》](https://book.douban.com/subject/3312323/) / [《艺术与观念（下册）》](https://book.douban.com/subject/3312621/)，艺术就是观念的表现
+- [《为真实的世界设计》](https://book.douban.com/subject/35249954/)
+- [《设计中的设计 | 全本》](https://book.douban.com/subject/4230237/)
+- [《编写可读代码的艺术》](https://book.douban.com/subject/10797189/)
+- [《大卫·科波菲尔》](https://book.douban.com/subject/25897663/)
+- [《基督山伯爵》](https://book.douban.com/subject/30286914/)
+- [《史蒂夫·乔布斯传》](https://book.douban.com/subject/6798611/)
+- [《品读人生》](https://book.douban.com/subject/1275171/)，对我而言，这是一本启蒙书，让我们回到民国
 
-- 文学
-    - [《那不勒斯四部曲》](https://book.douban.com/series/36002)，我爱埃莱娜·费兰特
-    - [《2666》](https://book.douban.com/subject/6800379/)，神作
-    - [《棋王·树王·孩子王》](https://book.douban.com/subject/26739966/) ，能写出阿城那样的句子，这辈子算值了
-    - [《莎士比亚全集》](https://book.douban.com/series/4319)
-    - [《神曲》](https://book.douban.com/subject/35390580/)
-    - [《斯通纳》](https://book.douban.com/subject/26425831/)，一个失败者的一生
-    - [《福尔摩斯探案全集》](https://book.douban.com/subject/3723829/)，一度读成了哲学书
-    - [《霍乱时期的爱情》](https://book.douban.com/subject/10594787/)
-    - [《围城》](https://book.douban.com/subject/1008145/)，墙里墙外，皆是囚徒
-    - [《品读人生》](https://book.douban.com/subject/1275171/)，对我而言，这是一本启蒙书，让我们回到民国
-    - [《基督山伯爵》](https://book.douban.com/subject/30286914/)
-    - [《大卫·科波菲尔》](https://book.douban.com/subject/25897663/)
-    - [《傲慢与偏见》](https://book.douban.com/subject/26904471/)
-    - [《理智与情感》](https://book.douban.com/subject/35494990/)
-- 历史
-    - [《万历十五年》](https://book.douban.com/subject/1858410/)，历史就是要能够见微知著
-- 艺术
-    - [《创意行为：存在即答案》](https://book.douban.com/subject/36897065/)
-    - [《日本的八个审美意识》](https://book.douban.com/subject/27193382/)
-    - [《艺术与观念（上册）》](https://book.douban.com/subject/3312323/) / [《艺术与观念（下册）》](https://book.douban.com/subject/3312621/)，艺术就是观念的表现
-    - [《来自民间的叛逆》](https://book.douban.com/subject/30294348/)，一部美国民歌史，半部迪伦传
-    - [《现代艺术 150 年》](https://book.douban.com/subject/26854318/)，一个未完成的故事
-- 设计
-    - [《为真实的世界设计》](https://book.douban.com/subject/35249954/)
-    - [《写给大家看的设计书》](https://book.douban.com/subject/26664522/)
-    - [《设计心理学》](https://book.douban.com/subject/26742341/)
-    - [《设计中的设计 | 全本》](https://book.douban.com/subject/4230237/)
-- 传记
-    - [《科恩谈科恩》](https://book.douban.com/subject/36892415/)
-    - [《史蒂夫·乔布斯传》](https://book.douban.com/subject/6798611/)
-    - [《天才与天才之间》](https://book.douban.com/subject/35678095/)
-    - [《我是你的男人》](https://book.douban.com/subject/25858095/)
-- 技术
-    - [《编写可读代码的艺术》](https://book.douban.com/subject/10797189/)
-    - [《命令行中的数据科学》](https://book.douban.com/subject/26387975/)
-- 人文
-    - [《黑客与画家》](https://book.douban.com/subject/35889905/)
+Here are the English books I read and recommend:
 
-English:
-
-Here are the books I read and recommend:
-
+- [Steal Like an Artist](https://austinkleon.com/steal/)
+- [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
+- [Shape Up](https://basecamp.com/shapeup)
 - [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 - [Hackers and Painters](https://paulgraham.com/hackpaint.html)
-- [Shape Up](https://basecamp.com/shapeup)
-- [The Almanack of Naval Ravikant](https://www.navalmanack.com/)
 
 ## About
 
